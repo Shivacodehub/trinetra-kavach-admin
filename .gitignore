@@ -1,0 +1,24 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.db
+node_modules/
+dist/
+.DS_Store
+*.pem
+*.key
+*.dump
+*.sql.gz
+# System & Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
